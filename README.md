@@ -1,4 +1,5 @@
 Osteoporosis Prediction Model
+
 Osteoporosis, characterized by decreased bone mineral density and compromised bone structure, affects approximately 18% worldwide, with osteoporosis-associated fractures impacting up to 37 million people annually. Despite the World Health Organization's recommendation of dual-energy X-ray absorptiometry (DXA) for bone mineral density assessment, limitations such as availability, radiation exposure, and the inability to detect fracture risk in patients with subclinical conditions persist.
 
 Artificial intelligence has emerged as a promising solution in various medical fields, including orthopedics. However, there remains a need for a reliable, cost-effective, and practical tool for osteoporosis prediction.
