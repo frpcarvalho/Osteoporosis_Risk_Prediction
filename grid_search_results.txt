@@ -1,0 +1,17 @@
+Melhores parâmetros encontrados:
+{'classifier__learning_rate': 0.1, 'classifier__max_depth': 4, 'classifier__max_features': None, 'classifier__min_samples_leaf': 1, 'classifier__min_samples_split': 2, 'classifier__n_estimators': 100, 'classifier__subsample': 0.9, 'variance_threshold__threshold': 0.01}
+
+Melhor score de validação cruzada: 0.8019
+
+Top 10 características mais importantes:
+              feature  importance
+1776      BMX_H_BMXWT    0.131028
+1331     BPX_H_BPACSZ    0.053594
+1991  DEMO_H_RIDAGEYR    0.047382
+1424     MCQ_H_MCQ080    0.040483
+1345     TST_H_LBXEST    0.035369
+2011  DEMO_H_DMDHHSZE    0.031308
+3958     WHQ_H_WHQ030    0.018949
+1457     OSQ_H_OSQ060    0.015975
+1781    BMX_H_BMXARMC    0.012705
+2019   DEMO_H_SDMVPSU    0.012484
