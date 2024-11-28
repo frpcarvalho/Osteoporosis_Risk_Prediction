@@ -65,7 +65,3 @@ If you use this model in your research, please cite:
 }
 ```
 
-## License
-MIT License
-
-Gostaria que eu detalhasse algum desses componentes?
